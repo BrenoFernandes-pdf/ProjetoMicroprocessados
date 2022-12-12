@@ -13,5 +13,5 @@ Projeto de microprocessados de uma lâmpada inteligente de baixo custo, feito pe
 ![10](https://user-images.githubusercontent.com/114237253/207150185-8f10c0fb-2256-422f-9bb0-4f3ec6c2f5fa.png)
 ![11](https://user-images.githubusercontent.com/114237253/207150187-b5382a6f-e278-42dd-92fa-95ff1c82445d.png)
 ![12](https://user-images.githubusercontent.com/114237253/207150190-146a1852-9061-4faf-908b-5168813b9406.png)
-![13](https://user-images.githubusercontent.com/114237253/207150193-0dca6d62-6ca5-4f18-9cbc-f5a3862dc9c7.png)
+![Cópia de Slide Microprocessados](https://user-images.githubusercontent.com/114237253/207150929-fafc314e-c7cd-4f73-a94f-b94228908d1e.png)
 ![14](https://user-images.githubusercontent.com/114237253/207150197-f561776a-8ba9-47d4-96ed-647c648d72f0.png)
